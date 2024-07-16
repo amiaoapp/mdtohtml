@@ -19,6 +19,11 @@
 
 阿喵我自定义的主题css如下
 
+### 预览图
+![image](https://github.com/user-attachments/assets/c04eaf46-0ee0-42e1-ac94-ddaa2e439a4c)
+
+
+### CSS代码
 ```css
 
 /* 全局属性
@@ -272,7 +277,7 @@
 
 
 ```
-
+### 内置主题
 目前内置原版所有主题，可在编辑器页面顶部主题菜单中查看，如下所示：
 
 - 默认主题 `@zhning12`
