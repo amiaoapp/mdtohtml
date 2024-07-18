@@ -1,4 +1,4 @@
-<h1 align="center">Markdown Nice</h1>
+<h1 align="center">Markdown Nice 旧版</h1>
 
 ## 简介
 
@@ -13,6 +13,10 @@
 - 新增主题 「极简黑」，「凝夜紫」
 
 > 有疑问请参考 [如何有效的解决 mdnice 相关问题？](https://github.com/mdnice/markdown-nice/issues/163)
+
+## 部署
+
+可以选择下载整个项目，自行编译，也可以只下载  mdnice.zip 然后直接上传到网站根目录下直接使用。
 
 ## 主题
 
